@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 2048 - Animated Edition
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -36,6 +36,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Would to give credits to 2 people:
 
--   Romain Cousin. It's his design. He is a great designer. He was very kind to give us the permission to use his designs for this tutorial. You should go and check out his work at: [https://www.behance.net/romaincousin](https://www.behance.net/romaincousin)
+-   Romain Cousin. It's his design. He is a great designer. He was very kind to give us the permission to use his designs for this project. You should go and check out his work at: [https://www.behance.net/romaincousin](https://www.behance.net/romaincousin)
 
 -   Ivan Vergiliev. His logic very easy to follow and was not having any unnecessary complications. Below is the repository where you will find the logic which I have used in this project: [https://github.com/IvanVergiliev/2048-react](https://github.com/IvanVergiliev/2048-react)
